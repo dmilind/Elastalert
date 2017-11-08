@@ -1,7 +1,7 @@
 # ElastAlert
 
 ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch. Documentation for elastalert can be found at https://elastalert.readthedocs.io/en/latest/elastalert.html. 
-This project create an elastalert rpm by using elastalert python module
+This project create an elastalert rpm by using elastalert python module. Reference from github amine7536.
 ## Required Stack
 - Elastalert [http://elastalert.readthedocs.io/en/latest/](http://elastalert.readthedocs.io/en/latest/)
 - FPM Packaging tool : [http://fpm.readthedocs.io/en/latest/](http://fpm.readthedocs.io/en/latest/)
