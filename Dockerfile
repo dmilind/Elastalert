@@ -1,5 +1,5 @@
 FROM centos:centos7
-LABEL maintainer="mdhoke@qualys.com"
+LABEL maintainer="Milind Dhoke"
 
 ENV BUILDDIR="/tmp/build"
 ENV INSTALLDIR="/usr/share/python" 
